@@ -1,6 +1,6 @@
 $('.start').click(function(){
     $('.stage1').fadeOut();
-    fire_modal('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/cake_modal.png','Muummy!','Since it’s your birthday, I find it only fitting that you get to make your own digital birthday cake. Start by making your cake mixture, then bake it in a digital oven and finally decorate. Have fun and happy birthday');
+    fire_modal('https://s3-us-west-2.amazonaws.com/s.cdpn.io/217233/cake_modal.png','Mummy!','Every Birthday, I always make one Digital Birthday Card, But it can only wish... But this time you are going to make a Digtal Cake. Start by making your cake mixture, then bake it in a digital oven and finally decorate. Happy Birthday!!');
 })
 
 progress = 1;
