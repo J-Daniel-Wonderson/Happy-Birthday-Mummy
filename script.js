@@ -54,11 +54,7 @@ $('.mixer').click(function(){
 })
 
 $('.tin').draggable({
-    revert: true,
-    start: function(event, ui) {
-        // Enable drag functionality for mobile too
-        $(this).css('touch-action', 'none');
-    }
+    revert: true
 });
 
 })
