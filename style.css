@@ -142,7 +142,7 @@ body .birthday_inner__stage .oven img {
   left: -10px;
 }
 body .birthday_inner__stage .tin img {
-  touch-action: none;
+  
   width: 90px;
 }
 body .birthday_inner__stage .candle {
